@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hello
 <<<<<<< HEAD
 
@@ -18,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 My first Flutter App
 >>>>>>> origin/main
+=======
+# hello_application
+Flutter App
+>>>>>>> 10b4c3606cac67a31e2cef710551883309c57637
